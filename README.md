@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio]()**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://ratzfsth.dorik.io/)**
 
 - 📫 How to reach me **ratnadas149@gmail.com**
 
@@ -82,14 +82,14 @@ Here are some ideas to get you started:
 <!-- <a href="https://github.com/Aakash-Naykude/github-readme-activity-graph"><img alt="Aakash Naykude's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Aakash-Naykude&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 <br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Aakash-Naykude)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ratnadasdeveloper)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
 
 ## ❤ Views and Followers
 
-<a href="https://github.com/madhuri7patel">
-    <img src="https://komarev.com/ghpvc/?username=Madhuri Patel">
+<a href="https://github.com/Ratnadasdeveloper">
+    <img src="https://komarev.com/ghpvc/?username=Ratna Das">
 </a>
-<a href="https://github.com/madhuri7patel"><img src="https://img.shields.io/github/followers/Madhuri patel?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/madhuri7patel"><img src="https://img.shields.io/github/followers/Ratna Das?label=Followers&style=social" alt="GitHub Badge"></a>
