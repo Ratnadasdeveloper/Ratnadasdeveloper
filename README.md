@@ -1,4 +1,4 @@
-### Hi there 👋 I am Ratna Das!
+###
 
 <!--
 **Ratnadasdeveloper/Ratnadasdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
  -->
 <p align="center"><a href="#"><img style="margin-left:27%" width="46%" align="center" height="auto" src="https://sagarmude.netlify.app/static/media/avatar.711110cc.svg" height="175px"/></a></p>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, My Name is Madhuri Patel</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, My Name is Ratna Das</h1>
 <h2 align="center">I'm a Full Stack Developer.</h2>
 
 ## 🙋‍♂️ About Me
