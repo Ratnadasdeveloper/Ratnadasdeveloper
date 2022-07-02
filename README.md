@@ -92,4 +92,4 @@ Here are some ideas to get you started:
 <a href="https://github.com/Ratnadasdeveloper">
     <img src="https://komarev.com/ghpvc/?username=Ratna Das">
 </a>
-<a href="https://github.com/madhuri7patel"><img src="https://img.shields.io/github/followers/Ratna Das?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Ratnadasdeveloper"><img src="https://img.shields.io/github/followers/Ratnadasdeveloper?label=Followers&style=social" alt="GitHub Badge"></a>
